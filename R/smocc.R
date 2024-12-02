@@ -1,0 +1,19 @@
+#' @title SMOCC Data
+#' @name smocc
+#' @docType data
+#' @description Longitudinal height and weight measurements during ages 0-2 years for a representative sample of 1933 Dutch children born in 1988-1989. The dataset smocc is the full dataset.
+#' @usage data(smocc)
+#' @format A data frame with 1942 rows and 7 variables:
+#' \describe{
+#'   \item{id}{ID, unique id of each child (numeric)}
+#'   \item{age}{Decimal age, 0-2.68 years (numeric)}
+#'   \item{sex}{Sex, "male" or "female" (character)}
+#'   \item{ga}{Gestational age, completed weeks (numeric)}
+#'   \item{bw}{Birth weight in grammes (numeric)}
+#'   \item{hgt}{Height measurement in cm (numeric)}
+#'   \item{hgt_z}{Height in SDS relative Fourth Dutch Growth Study 1997 (numeric)}
+#' }
+#' @examples
+#' data(smocc)
+#' head(smocc)
+"smocc"

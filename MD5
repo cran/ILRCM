@@ -1,0 +1,16 @@
+763296b6ffdd512fa50b27f7d24386e8 *DESCRIPTION
+ad9909e60b90e17cca5d43d84feff725 *NAMESPACE
+1f94c947956038945063fc6c451a16d8 *R/irregclst.R
+90d8e39156dbb980d9f6c57ad3eca69e *R/irregclst1.R
+8e9505b15583b0c5c2d3f0cd141031c8 *R/irregclst2.R
+2e1551cd41bedcabf9f77ddcec16b013 *R/sdata.R
+ca491040673eb17e6eee5baab239d060 *R/smocc.R
+58164be7f65c767c92f2fcb4365d5fb5 *data/sdata.RData
+54757b2d41a8c5294b35cd4a7b4fd243 *data/sdata.rda
+ccdbd916f0bd85829d22c2c8ef010c54 *data/smocc.RData
+4e2a6637c35f5fd349c6cb4c3b54937f *data/smocc.rda
+bcf0ca3076642daeb557d19a5d11a2d5 *man/irregclst.Rd
+2e2a7378df040fc72e82a0a3656d345c *man/irregclst1.Rd
+9348e24d488af8177b6acbc023794d70 *man/irregclst2.Rd
+7a6452ed0a3a3634958b992d6e2db64e *man/sdata.Rd
+9da7c3f460fde38b725c13676e311b6b *man/smocc.Rd
